@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
